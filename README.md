@@ -1,4 +1,4 @@
-- проект реализует сервер аутентификации и издания JWT токенов для проекта [RRoC](/SuvorovJA/RRoC)
+- проект реализует сервер аутентификации и издания JWT токенов для проекта [RRoC](https://github.com/SuvorovJA/SSJWT)
 
 - по мотивам [лабы marcosbarbero](http://blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/)
     
