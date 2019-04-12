@@ -1,5 +1,5 @@
-- проект реализует сервер аутентификации и издания JWT токенов для проекта RRoC
+- проект реализует сервер аутентификации и издания JWT токенов для проекта [RRoC](/SuvorovJA/RRoC)
 
-- по мотивам [лабы marcosbarbero](blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/)
+- по мотивам [лабы marcosbarbero](http://blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/)
     
-    
+[пример работы](/USING_EXAMPLE.md)
