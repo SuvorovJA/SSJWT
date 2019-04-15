@@ -17,7 +17,7 @@ services:
      - /etc/resolv.conf:/etc/resolv.conf
 
  db:
-   image: postgres
+   image: postgres:10
    networks:
      - internet   
    ports:

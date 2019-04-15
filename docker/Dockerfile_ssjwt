@@ -1,0 +1,4 @@
+FROM openjdk:11-jdk-slim
+EXPOSE 9000
+ADD /target/jwt_auth_server-0.0.1.jar jwt_auth_server.jar
+ENTRYPOINT ["java","-jar","jwt_auth_server.jar"]

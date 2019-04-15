@@ -1,2 +1,3 @@
 - запуск контейнера с PostgreSQL на linux-host
 - поднимается dns сервер, в результате чего обращение возможно по имени 'db.docker' вместо localhost:port
+- запуск authserver вместе с базой данных и днс по start_app.sh, обращение 'ssjwt.docker:9000'

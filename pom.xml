@@ -73,6 +73,7 @@
                 <configuration>
                     <release>${java.version}</release>
                     <target>${java.version}</target>
+                    <source>${java.version}</source>
                 </configuration>
             </plugin>
         </plugins>
