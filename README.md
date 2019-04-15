@@ -3,3 +3,5 @@
 - по мотивам [лабы marcosbarbero](http://blog.marcosbarbero.com/centralized-authorization-jwt-spring-boot2/)
     
 [пример работы](/USING_EXAMPLE.md)
+
+[основной tasklist по проекту](/TASKLIST.md)
